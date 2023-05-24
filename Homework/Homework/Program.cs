@@ -114,6 +114,8 @@ namespace HomeWork
             {
                 case '1':
                     showText("---Добре! Ви вибрали що будете використовувати значення по модулю---", ConsoleColor.Green);
+                      number1 = Math.Abs(number1);
+                      number2 = Math.Abs(number2);
                     break;
                 case '2':
                     showText("---Добре! Ви вибрали що не будете використовувати значення по модулю---", ConsoleColor.Red);
