@@ -1,0 +1,8 @@
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\bin\Debug\ExtraHomework.exe.config
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\bin\Debug\ExtraHomework.exe
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\bin\Debug\ExtraHomework.pdb
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\obj\Debug\ExtraHomework.csproj.AssemblyReference.cache
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\obj\Debug\ExtraHomework.csproj.SuggestedBindingRedirects.cache
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\obj\Debug\ExtraHomework.csproj.CoreCompileInputs.cache
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\obj\Debug\ExtraHomework.exe
+D:\VisiualCode\em8-3.fr1ssst\ExtraHomework\ExtraHomework\obj\Debug\ExtraHomework.pdb
