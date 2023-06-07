@@ -109,15 +109,7 @@ namespace Homework
                 Console.WriteLine();
                 MessageHelper.showText($"Найменший елемент масиву: {smallest}", ConsoleColor.Cyan);
                 MessageHelper.showText($"Другий найменший елемент масиву: {second_smallest}", ConsoleColor.Green);
-            }
-            
-            // sorting the array using
-            // in-built sort function
-            //Array.Sort(arr);
-
-            // printing the desired element
-            //Console.WriteLine("smallest element is " + arr[0]);
-            //Console.WriteLine("second smallest element is "
+            }           
         }
         public void NumberTwo()
         {   
@@ -199,7 +191,7 @@ namespace Homework
             MessageHelper.showText("[3] Завдання №3", ConsoleColor.Yellow);
             //MessageHelper.showText("[4] Завдання №4", ConsoleColor.Blue);
             MessageHelper.showText("[0] Вихід з програми", ConsoleColor.Red);
-            int menuM = MessageHelper.getInt("");
+            int menuM = MessageHelper.getInt(null);
 
             Console.Clear();
 

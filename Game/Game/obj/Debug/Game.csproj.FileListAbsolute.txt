@@ -1,0 +1,8 @@
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\bin\Debug\Game.exe.config
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\bin\Debug\Game.exe
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\bin\Debug\Game.pdb
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\obj\Debug\Game.exe
+D:\VisiualCode\em8-3.fr1ssst\Game\Game\obj\Debug\Game.pdb
